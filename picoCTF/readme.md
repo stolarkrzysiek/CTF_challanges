@@ -4,3 +4,4 @@ Zdecydowałem na wybór tej platformy ze względu na wyzwania przygotowane specj
 
 ---
 ## Aktuanie zakończone wyzawania CTF:
+- [x]
